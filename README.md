@@ -44,8 +44,10 @@ Le projet repose sur une organisation en plusieurs fichiers, chacun ayant un rô
 - requirements.txt : liste des dépendances nécessaires à l’exécution du projet.
 
 Cette structuration permet de respecter le principe de séparation des responsabilités (Separation of Concerns), garantissant une meilleure lisibilité et organisation du code.
+  
   <img width="333" height="246" alt="image" src="https://github.com/user-attachments/assets/2160a446-39a7-4b30-a16d-e974ad4b2541" />
 
+  
   4. Démarche technique
 Le développement a été réalisé selon une approche modulaire, consistant à :
 - Définir la configuration globale de l’application.
